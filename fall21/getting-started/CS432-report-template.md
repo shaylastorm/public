@@ -1,12 +1,27 @@
-# HW# - Title
-### Your Name
+# HW#1 - Web Science Intro
+### Shayla Sherman
 ### CS 432, Fall 2021
-### Due Date
+### 9/19/21
 
 # Q1
 
-*You may copy the question into your report, but make sure that you make it clear where the question ends and your answer begins.*
-
+*Considering the following links:*
+A --> B
+B --> C
+B --> D
+C --> A
+C --> E
+E --> C
+E --> G
+F --> E
+H --> G
+I --> A
+I --> M
+I --> N
+J --> K
+L --> D
+M --> D
+Draw the resulting directed graph and sort the nodes alphabetically into their appropriate bow-tie structure categories. 
 ## Answer
 
 The example figure below shows the growth in the number of websites between 1993 and 1996.
